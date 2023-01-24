@@ -26,7 +26,7 @@
   },
   "dependencies": {
     "dayjs": "^1.11.2",
-    "octokit": "^1.7.0",
+    "octokit": "^2.0.14",
     "sanitize-html": "^2.6.1"
   },
   "devDependencies": {
